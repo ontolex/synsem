@@ -1,3 +1,4 @@
+
 # OntoLex SynSem
 Illustrative materials for the synsem module
 
@@ -8,6 +9,8 @@ Although there is no formal discussion of the topic in the form of an OntoLex te
 Likewise, materials that illustrate how SynSem is currently used.
 
 ## Current model and previous discussions
+
+![OntoLex-SynSem (2016)](https://raw.githubusercontent.com/ontolex/ontolex/master/Lemon%20Syntax%20and%20Semantics.svg)
 
 - [Status and Origins of SynSem](https://www.w3.org/community/ontolex/wiki/Syntax_and_Semantics_Module)
 - [Discussion of Valency and Semantics](https://www.w3.org/community/ontolex/wiki/Valency_and_Semantics)
