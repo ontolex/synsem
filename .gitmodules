@@ -1,0 +1,3 @@
+[submodule "data/parole_simple/ParoleSimpleLemon"]
+	path = data/parole_simple/es_ca
+	url = https://github.com/martavillegas/ParoleSimpleLemon
