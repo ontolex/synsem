@@ -10,3 +10,9 @@ Likewise, materials that illustrate how SynSem is currently used.
 Note: This repository uses the `submodule` mechanism to point to external GitHub repositories that hold related data. To clone it locally, use
 
     $> git clone --recurse-submodules --remote-submodules https://github.com/ontolex/synsem
+
+## Related Research
+
+- [PreMoN](https://premon.fbk.eu/): Unifying SRL formalisms with RDF+Lemon (see [`data/premon`](data/premon))
+- [FrameBase](https://www.framebase.org/): Mapping ontologies to semantic frames
+- 
