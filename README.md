@@ -7,9 +7,10 @@ Recently, a number of questions about some modelling decisions, its use, and (po
 Although there is no formal discussion of the topic in the form of an OntoLex telco series, materials to prepare such a discussion can be deposited here.
 Likewise, materials that illustrate how SynSem is currently used.
 
-## Current model and history
+## Current model and previous discussions
 
-- [wiki](https://www.w3.org/community/ontolex/wiki/Syntax_and_Semantics_Module)
+- [Status and Origins of SynSem](https://www.w3.org/community/ontolex/wiki/Syntax_and_Semantics_Module)
+- [Discussion of Valency and Semantics](https://www.w3.org/community/ontolex/wiki/Valency_and_Semantics)
 
 ## Structure
 
