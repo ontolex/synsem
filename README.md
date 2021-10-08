@@ -11,7 +11,9 @@ Likewise, materials that illustrate how SynSem is currently used.
 
 - [wiki](https://www.w3.org/community/ontolex/wiki/Syntax_and_Semantics_Module)
 
-## Content
+## Structure
+
+Please put 
 
 - data samples under [`data`](data/)
 - related research under [`lit`](lit/)
