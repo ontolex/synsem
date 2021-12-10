@@ -6,7 +6,7 @@ The SynSem module is one of the modules published at with the 2016 Community Rep
 Recently, a number of questions about some modelling decisions, its use, and (possibly) revision or replacement have been raised. Aside from the original use case for valency dictionaries, there has been a lot of uncertainty on whether and how to extend OntoLex and SynSem to semantic roles (thematic roles, frames).
 
 Although there is no formal discussion of the topic in the form of an OntoLex telco series, materials to prepare such a discussion can be deposited here.
-Likewise, materials that illustrate how SynSem is currently used.
+Likewise, materials that illustrate how SynSem is currently used. 
 
 ## Current model and previous discussions
 
@@ -20,7 +20,7 @@ Likewise, materials that illustrate how SynSem is currently used.
 
     ![Monnet-Lemon (2012) modelling](https://lemon-model.net/lemon-cookbook/mapping.png)
 
-Historically, OntoLex synsem goes back to LMF [*SubcategorizationFrame*](https://lemon-model.net/lemon-cookbook/node48.html), during the development of OntoLex-Lemon. The name was changed and it was extended for semantic frames (in the sense of semantic role labelling), as in the [2013/14 wiki page](https://www.w3.org/community/ontolex/wiki/Syntax_and_Semantics_Module). However, this modelling was considered to not be sufficiently mature and omitted from the 2016 specification. As a consequence, OntoLex frame now accounts for subcategorization frames only, but semantic frames require additional vocabulary.
+Historically, OntoLex synsem goes back to LMF [*SubcategorizationFrame*](https://lemon-model.net/lemon-cookbook/node48.html), during the development of OntoLex-Lemon. The name was changed and it was extended for semantic frames (in the sense of semantic role labelling), as in the [2013/14 wiki page](https://www.w3.org/community/ontolex/wiki/Syntax_and_Semantics_Module). However, this modelling was considered to not be sufficiently mature and omitted from the 2016 specification. The property `lemon:semArg` has been replaced by `synsem:ontoCorrespondence`, but this function is obfuscated by the eventual definition of `synsem:ontoCorrespondence`. As a consequence, OntoLex frame now primarily accounts for subcategorization frames only, but semantic frames require additional vocabulary.
 
 ## Structure
 
